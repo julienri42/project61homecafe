@@ -1,0 +1,21 @@
+.bg-gradient-secondary{
+     --bs-bg-opacity:1;
+     background-color:#6C757D;
+}
+.btn-secondary{
+     --bs-bg-opacity:1;
+     background-color:#6C757D;
+     color: #fff;
+     border-color: #6C757D;
+  }
+.bg-secondary{
+     --bs-bg-opacity:1;
+     background-color:#6C757D;
+   }
+   .bg-gradient-white{
+     --bs-bg-opacity:1;
+     background-color:#FFF;
+}
+.no-hover:hover{
+     text-decoration: none;
+}

@@ -1,0 +1,71 @@
+.topbar-divider {
+    width: 0;
+    border-right: 1px solid #000000;
+    height: calc(4.375rem - 2rem);
+    margin: auto 1rem;
+}
+.bg-secondary{
+    --bs-bg-opacity:1;
+    background-color:#6C757D;
+  }
+
+  .btn-outline-dark:hover{
+    --bs-bg-opacity:1;
+    background-color:#6C757D;
+  }
+  .hover:hover{
+    --bs-bg-opacity:1;
+    background-color:#D3D3D3;
+  } 
+  button.close{
+    padding: 0;
+    background-color: transparent;
+    border: 0;
+  }
+  .modal-header .close {
+    padding: 1rem 1rem;
+    margin: -1rem -1rem -1rem auto;
+}
+.close {
+  float: right;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1;
+  color: #000;
+  text-shadow: 0 1px 0 #fff;
+  opacity: .5;
+}
+.btn-secondary{
+  --bs-bg-opacity:1;
+  background-color:#6C757D;
+  color: #fff;
+  border-color: #6C757D;
+}
+.navbar-fixed-top,
+.navbar-fixed-bottom {
+  position: fixed; /* <-- Look here */
+  right: 0;
+  left: 0;
+  z-index: 1030;
+}
+.card-img-top1 {
+  width: 100%;
+  height: 15vw;
+  object-fit: cover;
+}
+.card-img-top2 {
+  height: 15vw;
+  object-fit: cover;
+}
+a{
+  color :#000;
+  text-decoration:none;
+}
+a:hover{
+  color :#6C757D;
+  text-decoration:underline;
+}
+.thead-secondary{
+  background-color :#6C757D;
+  color:#fff;
+}

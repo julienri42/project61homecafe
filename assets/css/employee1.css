@@ -1,0 +1,27 @@
+.bg-gradient-secondary{
+     --bs-bg-opacity:1;
+     background-color:#6C757D;
+}
+.bg-secondary{
+     --bs-bg-opacity:1;
+     background-color:#6C757D;
+     color: #fff;
+     border-color: #6C757D;
+  }
+.bg-secondary{
+     --bs-bg-opacity:1;
+     background-color:#6C757D;
+   }
+.page-item.active .page-link{
+    z-index:1;color:#fff;
+    background-color:#6C757D;
+    border-color:#6C757D;
+}
+.thead-secondary{
+     color:#fff;
+     --bs-bg-opacity:1;
+     background-color:#6C757D;
+}
+
+
+  
